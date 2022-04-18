@@ -71,6 +71,7 @@ html, body {
     border-radius: 40px;
     border: none;
     margin-top: 33px;
+    cursor: pointer;
 }
 
 .store {
