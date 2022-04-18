@@ -4,9 +4,11 @@
     font-weight: 400;
     src: local('Cal Sans') url(../css/CalSans-SemiBold.ttf) format('ttf');
 }
+
 * {
     font-family: 'Cal Sans';
 }
+
 html, body {
     margin: 0;
     padding: 0;
@@ -54,16 +56,16 @@ html, body {
 }
 
 .guitar__left_text {
-    font-family: 'Poppins';
-    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
     color: #666666;
     width: 398px;
     margin: 0;
 }
 
 .btn {
-    font-family: 'Poppins';
-    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
     color: white;
     background-color: #FF6428;
     width: 192px;
@@ -88,8 +90,8 @@ h2 {
 }
 
 h3 {
-    font-family: 'Poppins';
-    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
     margin-top: 92px;
 }
 
@@ -106,15 +108,15 @@ h3 {
 }
 
 .description {
-    font-family: 'Poppins';
-    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
     font-weight: 600;
     margin: 0;
 }
 
 .price {
-    font-family: 'Poppins';
-    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
     color: #666666;
     margin: 7px 0 0 0;
 }
@@ -134,8 +136,8 @@ h3 {
 }
 
 .categories__images_rec p{
-    font-family: 'Poppins';
-    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
     position: absolute;
     top: 210px;
     color: white;
@@ -168,16 +170,16 @@ h3 {
 }
 
 .icons__rhytm-title {
-    font-family: 'Poppins';
-    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
     color: white;
     text-transform: uppercase;
     margin-top: 40px;
 }
 
 .icons__rhytm-desc {
-    font-family: 'Poppins';
-    font-size: 14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
     font-weight: 200;
     width: 230px;
     color: #666666;
@@ -247,8 +249,8 @@ footer {
 }
 
 .footer__content p {
-    font-family: 'Poppins';
-    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
     font-weight: 200;
     color: #121212;
     opacity: 60%;
